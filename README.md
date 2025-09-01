@@ -42,6 +42,7 @@
 
 ## 🏆 GitHub Trophies
 
+![](https://github-profile-trophy.vercel.app/?username=maikrodrigues&theme=light)
 ![](https://maikrodrigues-trophy.vercel.app/?username=maikrodrigues&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ---
