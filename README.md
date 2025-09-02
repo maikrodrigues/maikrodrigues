@@ -60,6 +60,7 @@
 ---
 
 [![](https://visitcount.itsvg.in/api?id=maikrodrigues&label=Profile%20Views&pretty=true)](https://visitcount.itsvg.in)
+![](https://komarev.com/ghpvc/?username=maikrodrigues)
 
 ---
 
