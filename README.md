@@ -1,5 +1,3 @@
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
 # Hello, I'm maikrodrigues 👋
 
 🔭 I’m currently working on projects like MagniVet, MagniGest, MagniSoft, and more.  
@@ -19,7 +17,28 @@
 
 ## 🛠️ Tech Stack
 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)  ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)  ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)  ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)  ![Vuetify](https://img.shields.io/badge/Vuetify-1867C0?style=for-the-badge&logo=vuetify&logoColor=AEDDFF)  ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)  ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)  
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge) 
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge) 
+![Storybook](https://img.shields.io/badge/Storybook-FF4785?logo=storybook&logoColor=black&style=for-the-badge) 
+![Node.js](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white&style=for-the-badge) 
+![CSS](https://img.shields.io/badge/CSS-1572B6?logo=css&logoColor=white&style=for-the-badge) 
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white&style=for-the-badge) 
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge) 
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?logo=vuedotjs&logoColor=black&style=for-the-badge) 
+![Vuetify](https://img.shields.io/badge/Vuetify-1867C0?logo=vuetify&logoColor=white&style=for-the-badge) 
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge) 
+![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge) 
+![GitLab](https://img.shields.io/badge/GitLab-FC6D26?logo=gitlab&logoColor=black&style=for-the-badge) 
+![NGINX](https://img.shields.io/badge/NGINX-009639?logo=nginx&logoColor=white&style=for-the-badge) 
+![Angular](https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=white&style=for-the-badge) 
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black&style=for-the-badge) 
+![FileZilla](https://img.shields.io/badge/FileZilla-BF0000?logo=filezilla&logoColor=white&style=for-the-badge) 
+![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white&style=for-the-badge) 
+![Adobe Illustrator](https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?logo=adobeillustrator&logoColor=black&style=for-the-badge) 
+![jQuery](https://img.shields.io/badge/jQuery-0769AD?logo=jquery&logoColor=white&style=for-the-badge) 
+![npm](https://img.shields.io/badge/npm-CB3837?logo=npm&logoColor=white&style=for-the-badge) 
+![Nuxt.js](https://img.shields.io/badge/Nuxt.js-00DC82?logo=nuxt&logoColor=black&style=for-the-badge) 
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?logo=visualstudiocode&logoColor=white&style=for-the-badge)
 
 ---
 
@@ -35,8 +54,9 @@
 ## 📊 GitHub Stats
 
 ![](https://maikrodrigues-stats.vercel.app/api?username=maikrodrigues&theme=dark&hide_border=false&include_all_commits=true&count_private=true)  
-![](https://maikrodrigues-stats.vercel.app/?user=maikrodrigues&theme=dark&hide_border=false)  
-![](https://maikrodrigues-stats.vercel.app/api/top-langs/?username=maikrodrigues&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://nirzak-streak-stats.vercel.app/?user=maikrodrigues&theme=dark&hide_border=false)  
+![](https://maikrodrigues-stats.vercel.app/api/top-langs/?username=maikrodrigues&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)  
+![](https://github-readme-activity-graph.vercel.app/graph?username=maikrodrigues&radius=5&theme=react&area=true&order=5)
 
 ---
 
